@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1097848804689-783fdu36a2n6cen6di8pk4jlc53ca59c.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1097848804689-783fdu36a2n6cen6di8pk4jlc53ca59c</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD8uwBQZni5ru_G2JgR71k6AKsPT0XlhDs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1097848804689</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>kr.co.hexagoncms</string>
+	<key>PROJECT_ID</key>
+	<string>hexagon-95192</string>
+	<key>STORAGE_BUCKET</key>
+	<string>hexagon-95192.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1097848804689:ios:6bbe0269d78b8755e12f70</string>
+</dict>
+</plist>
